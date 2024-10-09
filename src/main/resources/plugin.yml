@@ -1,0 +1,4 @@
+name: NoItemDrop
+version: 1.0
+main: com.example.NoItemDrop.NoItemDrop
+api-version: 1.16
